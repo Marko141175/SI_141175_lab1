@@ -1,0 +1,11 @@
+commit 6bfe3f8e15f20679f7048f319b4773a0764d21f2 (HEAD -> logging, origin/master, master)
+Author: unknown <dimitrijeski.marko@students.finki.ukim.mk>
+Date:   Thu Mar 21 09:39:09 2019 +0100
+
+    modify l1.txt
+
+commit f4a165645a46cfb5f14175185b819f768fd4f102
+Author: unknown <dimitrijeski.marko@students.finki.ukim.mk>
+Date:   Thu Mar 21 09:38:09 2019 +0100
+
+    Initial commit

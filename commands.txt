@@ -29,4 +29,4 @@ git add commands.txt
 git commit -m "added commands.txt"
 git push --set-upstream origin allcomands
 
-link https://github.com/Marko141175/SI_141175_lab1.git
+link https://github.com/Marko141175/SI_141175_lab1
